@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1593144908 source:c:\users\mati\desktop\generala\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+
+1593144507 c:\users\mati\desktop\generala\generala\menu.h
+
+1593190077 source:c:\users\mati\desktop\generala\generala\menu.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"resolver.h"
+
+1593190111 source:c:\users\mati\desktop\generala\generala\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"menu.h"
+	"resolver.h"
+
+1593190077 c:\users\mati\desktop\generala\generala\resolver.h
+
+1593195108 source:c:\users\mati\desktop\nueva carpeta (2)\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+
+1593144507 c:\users\mati\desktop\nueva carpeta (2)\generala\menu.h
+
+1593199373 source:c:\users\mati\desktop\nueva carpeta (2)\generala\menu.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"resolver.h"
+
+1593194250 c:\users\mati\desktop\nueva carpeta (2)\generala\resolver.h
+
+1593199645 source:c:\users\mati\desktop\nueva carpeta (2)\generala\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"menu.h"
+	"resolver.h"
+
+1593230383 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala5\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593234611 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala5\generala\menu.h
+
+1593234611 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala5\generala\menu.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"resolver.h"
+
+1593234611 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala5\generala\resolver.h
+
+1593234610 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala5\generala\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"menu.h"
+	"resolver.h"
+
+1593230383 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala6\generala5\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593234611 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala6\generala5\generala\menu.h
+
+1593234611 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala6\generala5\generala\resolver.h
+
+1593234611 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala6\generala5\generala\menu.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+	"resolver.h"
+
+1593392402 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala6\generala5\generala\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"menu.h"
+	"resolver.h"
+
+1593548470 source:c:\users\mati\desktop\generala7\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593555944 c:\users\mati\desktop\generala7\menu.h
+
+1593558764 c:\users\mati\desktop\generala7\resolver.h
+
+1593558957 source:c:\users\mati\desktop\generala7\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593560708 source:c:\users\mati\desktop\generala7\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593548470 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala11\generala7\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593555944 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala11\generala7\menu.h
+
+1593558764 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala11\generala7\resolver.h
+
+1593573702 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala11\generala7\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593572180 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala11\generala7\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593548470 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala12\generala12\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593555944 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala12\generala12\menu.h
+
+1593558764 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala12\generala12\resolver.h
+
+1593574738 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala12\generala12\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593574470 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala12\generala12\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593548470 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala13\generala13\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593638043 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala13\generala13\menu.h
+
+1593638043 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala13\generala13\resolver.h
+
+1593638554 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala13\generala13\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593638978 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala13\generala13\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593661081 source:c:\users\mati\downloads\generala14\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593638043 c:\users\mati\downloads\generala14\menu.h
+
+1593638043 c:\users\mati\downloads\generala14\resolver.h
+
+1593660037 source:c:\users\mati\downloads\generala14\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+
+1593661025 source:c:\users\mati\downloads\generala14\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593711208 source:c:\users\mati\desktop\generala14\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+	"rlutil.h"
+
+1593638043 c:\users\mati\desktop\generala14\menu.h
+
+1593638043 c:\users\mati\desktop\generala14\resolver.h
+
+1593711448 source:c:\users\mati\desktop\generala14\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593710872 source:c:\users\mati\desktop\generala14\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593548419 c:\users\mati\desktop\generala14\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593711208 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\main.cpp
+	<iostream>
+	<stdlib.h>
+	"menu.h"
+	"resolver.h"
+	"rlutil.h"
+
+1593638043 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\menu.h
+
+1593638043 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\resolver.h
+
+1593548419 c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593710872 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\menu.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
+1593711448 source:c:\users\deivi lachapel\documents\utn 2020\lab-programacion\generala15\generala14\resolver.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"menu.h"
+	"resolver.h"
+
